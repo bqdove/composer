@@ -8,11 +8,11 @@
  */
 namespace Notadd\Composer;
 
-use Notadd\Foundation\Expand\Abstracts\Expand;
+use Notadd\Foundation\Extension\Abstracts\Extension;
 
 /**
  * Class ExpandServiceProvider.
  */
-class ExpandServiceProvider extends Expand
+class ExtensionServiceProvider extends Extension
 {
 }
