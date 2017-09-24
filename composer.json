@@ -1,6 +1,7 @@
 {
     "name": "notadd/composer",
     "keywords": ["notadd", "expand", "composer"],
+    "description": "Composer extension",
     "homepage": "https://notadd.com",
     "license": "Apache-2.0",
     "authors": [
