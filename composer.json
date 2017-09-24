@@ -9,7 +9,7 @@
             "email": "notadd@ibenchu.com"
         }
     ],
-    "type": "notadd-expand",
+    "type": "notadd-extension",
     "autoload": {
         "psr-4": {
             "Notadd\\Composer\\": "src/"
